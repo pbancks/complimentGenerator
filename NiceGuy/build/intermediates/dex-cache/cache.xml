@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_b7bee923d44b9e378edf03ea8600186783468a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.0_692a47959a8ad86fe1cc74a4231920ccd59ca082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.2.0_28e7c6062caea7632a4980877e386c6187d6d402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_8b5579fcf62f71f6d16d49aa610cd1d14e1f3917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.0_6baa06d01a801e53ebff83a26852ae1ec3ebc20f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.0_5404651aec0ee1d8d211f30894416838d5a67695\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_586eae76807747818d7da505e9c9076a66fca9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed60c7307fcb5a2a148aa90cdba331afb941a320">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f90e0e66d73bc9b2851be12bffc6c090cf92dc14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.0_828aba8b4d3b2442082f6f28a6bdaaec1b7a4e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_ca1cde2fc8f6846a3f234f973873da087a5f7684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.0_8542159808af1b569941439e79c12b220247be5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_9732ad781dc0070daccfcc4e4e73ee0031957653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.2.0_5e113966e1478e189ff58a695239c6321c62a660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.2.0_032b8e9e23d5bbbd69c28ea191ba9926111244c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_d439937df957adcbefe109f2474cf9e2a0f3a7c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_5cb472773a260a6830e74f776254eb272dc594cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_7b2ad2202d627636085e142c07e7057132e10d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_749e69b68714864e509d9ecea19bc84f27683876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_1a3f3798daf4d0a5c6616c0d5ce398cc014d8e50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.2.0_6e88e018a1bdc5314c12780d6698909330b6f504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.0_3c391eb2605d2a39bb95960265ae1ef3e2c286c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.0_d4e419b5111dbdb0143c2001aadf4731c798bffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.0_a1dec1adab03362e42179dc1c6bafeb6e4df44f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_c23939a2c090c588e708f113d6c5b28b83642eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_56486844a27553482b3508d40e44c415cfe2e296\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_0bb073d349ae58a7cf3f365fe3d4af72cc648288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_fa58eec61ece86e76ab4f60bab3917bea8bbd4ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.0_bc4e7c447bf9d1e6f7ba8cbc0ff497a4ec6da56d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.2.0_f60733099fe995b4abe0f32b15a8982438877cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_e2824426c6941f60daa1a76f6bac71888ef2e15d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_0280228e91a494f6ca4072aa249a2c8f36541feb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b180d8d87bd8b8a56c15235088e4d941b6b2e7c">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b4204a8384921e212ae21e1c5707809e573500dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_fb91bb716040e1f9f03f961ffd83d37cf960345f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.0_11e6a8766faf494e15fa3d06bb7d68b6c36f62a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_0a4f5f73668cff12d669b7ef57f1bc0f231ffd09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.0_83e4fca105ae17258da1f2095a0162c5a101ff37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_f211d2e57955e717d0caff9c7aeda35da1c991c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_7b8790a927deb9b74ae5e79d502ef38f46517656\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_3afcc070913f64440a09c175ee90ecea52ce145e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_9df03572219527aa3bc4a5aaba7a5fb7444c8b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_2640ba6616ea9216eb6e539d94f1b5daa51bcd5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.2.0_fb603f817b272bdca087695582fde98ef20496f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.0_049042757befaf3b371699ed0800eb27e85a5ba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.2.0_e4561b234bccd3231d4a20f73e772b447a1bed8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_9b6eaa32c23fd7afe683b85d1294bbe6c88f0447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.0_f9eaa3350909408b891a6748afa1b16c9a20ce06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.0_879b26b0dc2a054544a5b05ad8481dfec6701a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.2.0_6157d66563da85392ed9bf0e97922a98c9ddda4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_f20031c9d7f367e6d2067750f6a3214df66b1dcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.0_0e9f74cc8fcc4828d81fd8fb759c195f620e6723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.2.0_089c6b08a6959cd64fa3cec1c0af9839c82f9980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_586b926559f175dcfe5702d7ea366bc3bf0d153e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.0_571fa9b9de2186068bfa270fff4faf604b090311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.2.0_af0d16b94e1d1e35999d4758dbf9d4efca1febbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_f3153635c35e8a04603bc0a90e87b0af6368872c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.0_6be445ab5c5ae48656c9e581705457ba8bb59a5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_7c24a1bbbb9bd42c1c823ef8fde85b6904573c5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.2.0_7637adef11866776e5825ad8b4602424f61d342e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.2.0_5731b2b07bb5814d14f0e38a60aa3d87a2c1a885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_f60caf9bdbfe10fdf55555f90f39b1856ba364b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.2.0_a1097ee1bad48367b953dc89d77d0002cd337385\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.0_fe993131784b3b0c7c7883fe70145829a6b5d4b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_d1dc5f1c935ccb040c39e98a999ed7e8d1c7e5c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_a08f8b220c7ec801beeadeadf8e02cfa102497ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.0_5d1e627bf5c5822458531b0d0b65435bf9983283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\19tan\Desktop\NiceGuy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_420abe2fb19bdb0f7e9cb98aa5332841f5477c34\classes.dex" />
+    </item>
+
+</items>
